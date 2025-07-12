@@ -40,8 +40,10 @@ This project focuses on detecting suspicious or anomalous web threat interaction
 - Flagged anomalous patterns without labeled data
 - Scalable baseline for network traffic threat analysis
 
-![network interaction]_(Network_interaction_between_source_and_destination_IPs.jpg)
-![web traffic]_(Web_traffic_analysis_over_time.jpg)
+--- insight graphs
+  
+![network interaction](Network_interaction_between_source_and_destination_IPs.jpg)
+![web traffic](Web_traffic_analysis_over_time.jpg)
 
 ## 📎 How to Run
 
